@@ -22,18 +22,20 @@
 
 ## 赞助档位（建议价，可议）
 
-默认按 **人民币 / 月** 报价（方便国内对公）；也可付 USD（约按当月汇率，或按下表美元档）。  
-价格偏「友好起步」，方便第一批赞助商上车；**可议、可季度更优惠**。最终以邮件确认为准。
+对照常见开源实践（GitHub Sponsors 个人档多在 **$5–$50/月** 文字感谢，**$50–$100/月** 上 logo；国内很多项目甚至是 **互推/返佣链接 0 元上 logo**），我们按 **咖啡钱～一顿饭** 定价，方便第一批赞助商。
+
+默认 **人民币 / 月**（可对公）；也可付 USD。**一切可议**，最终以邮件为准。
 
 | 档位 | 月费（参考） | 约合 USD | 你获得什么 |
 |------|-------------|----------|------------|
-| **Supporter** | **¥49–99** | ~$7–14 | 感谢名单（README 文字一行 + 链接） |
-| **Logo** | **¥199–399** | ~$28–55 | README logo（高 40px）+ 官网链接 |
-| **Featured** | **¥599–999** | ~$85–140 | 优先排序 logo + 可选一次 X 推文提及 |
-| **Primary** | **¥1,499–2,499** | ~$210–350 | 主赞助位标注 + logo + 一次推文 + 可选文档赞助行 |
-| **Hiring** | **¥299 起** 或与 Logo 打包 | — | README「We're hiring」一行岗位链接 |
+| **Supporter** | **¥15–30** | ~$2–4 | 感谢名单（文字一行 + 链接） |
+| **Logo** | **¥68–128** | ~$10–18 | README logo（高 40px）+ 官网链接 |
+| **Featured** | **¥198–298** | ~$28–42 | 优先排序 logo + 可选一次 X 提及 |
+| **Primary** | **¥398–598** | ~$55–85 | 主赞助标注 + logo + 一次推文 + 可选文档赞助行 |
+| **Hiring** | **¥98 起** 或与 Logo 打包 | ~$14+ | README「We're hiring」一行 |
+| **互推 / 开源友好** | **0 元或礼品卡** | — | 产品给社区用户福利、文档互链、活动联合，个案聊 |
 
-**季度付 9 折、半年付 8.5 折**（可谈）；学生社团 / 开源友好团队可再商量。
+**付一季送半个月、付半年送一个月**（可谈）。学生 / 个人独立开发者 / 互推可再低。
 
 ### 不包含 / 不做
 
@@ -103,15 +105,16 @@ Logo row example (height 40):
 
 **reverse-skill** is an AI skill-router for reverse engineering and authorized security work (**8k+ GitHub stars**). Audience: security engineers, red/blue teams, RE, AI+security builders.
 
-| Tier | CNY / month (indicative) | ~USD | Includes |
-|------|--------------------------|------|----------|
-| Supporter | ¥49–99 | ~$7–14 | Text credit + link |
-| Logo | ¥199–399 | ~$28–55 | README logo (h=40) + link |
-| Featured | ¥599–999 | ~$85–140 | Priority logo + optional X mention |
-| Primary | ¥1,499–2,499 | ~$210–350 | Primary badge + logo + X + optional sponsored line |
-| Hiring | from ¥299 or bundle | — | Hiring blurb on README |
+| Tier | CNY / month | ~USD | Includes |
+|------|-------------|------|----------|
+| Supporter | ¥15–30 | ~$2–4 | Text credit + link |
+| Logo | ¥68–128 | ~$10–18 | README logo (h=40) + link |
+| Featured | ¥198–298 | ~$28–42 | Priority logo + optional X mention |
+| Primary | ¥398–598 | ~$55–85 | Primary + logo + X + optional docs line |
+| Hiring | from ¥98 | ~$14+ | Hiring blurb |
+| Community / barter | ¥0 | — | Mutual promo / perks for users — case by case |
 
-Friendly starter pricing; quarterly ~10% off, half-year ~15% off.
+Aligned with typical GitHub Sponsors small tiers ($5–$50 name, ~$50–$100 logo). Quarterly/half-year discounts available.
 
 **Contact:** [24781737@qq.com](mailto:24781737@qq.com) · Subject: `[Sponsorship] YourCo × reverse-skill`
 
