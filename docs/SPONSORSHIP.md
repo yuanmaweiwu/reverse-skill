@@ -1,7 +1,7 @@
 # reverse-skill Sponsorship
 
 > GitHub: [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) · **8k+ stars**  
-> Contact: [ww7517437@gmail.com](mailto:ww7517437@gmail.com) · X: [@apivixtls](https://x.com/apivixtls) · Telegram: [AI_And_Security](https://t.me/AI_And_Security)
+> Contact: [24781737@qq.com](mailto:24781737@qq.com) · X: [@apivixtls](https://x.com/apivixtls) · Telegram: [AI_And_Security](https://t.me/AI_And_Security)
 
 中文在前，English follows.
 
@@ -65,7 +65,7 @@
 
 ## 如何成为赞助商
 
-发邮件到 **[ww7517437@gmail.com](mailto:ww7517437@gmail.com)**，标题建议：
+发邮件到 **[24781737@qq.com](mailto:24781737@qq.com)**，标题建议：
 
 ```text
 [Sponsorship] CompanyName × reverse-skill
@@ -84,7 +84,7 @@
 
 ## Current sponsors
 
-*Be the first. Email [ww7517437@gmail.com](mailto:ww7517437@gmail.com).*
+*Be the first. Email [24781737@qq.com](mailto:24781737@qq.com).*
 
 <!--
 Logo row example (height 40):
@@ -110,6 +110,6 @@ Logo row example (height 40):
 | Primary | $3,000+ | Primary badge + logo + X + optional sponsored tool line |
 | Hiring | custom | Hiring blurb on README |
 
-**Contact:** [ww7517437@gmail.com](mailto:ww7517437@gmail.com) · Subject: `[Sponsorship] YourCo × reverse-skill`
+**Contact:** [24781737@qq.com](mailto:24781737@qq.com) · Subject: `[Sponsorship] YourCo × reverse-skill`
 
 No dark patterns, no unlabeled ads. All commercial placement must be marked sponsored.

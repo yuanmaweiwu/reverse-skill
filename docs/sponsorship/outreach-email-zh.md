@@ -28,13 +28,13 @@ https://github.com/zhaoxuya520/reverse-skill/blob/main/docs/SPONSORSHIP.md
 
 **不包含：** 未标注软广、捆绑下载、修改项目安全立场的不当文案。
 
-若感兴趣，回复意向档位与周期即可；也可直接邮件：`ww7517437@gmail.com`。
+若感兴趣，回复意向档位与周期即可；也可直接邮件：`24781737@qq.com`。
 
 谢谢阅读。
 
 【你的名字】  
 reverse-skill  
-邮箱：ww7517437@gmail.com  
+邮箱：24781737@qq.com  
 X：https://x.com/apivixtls  
 Telegram：https://t.me/AI_And_Security  
 
@@ -42,4 +42,4 @@ Telegram：https://t.me/AI_And_Security
 
 ## 更短版（跟进/私信用）
 
-> reverse-skill（安全 AI 路由包，GitHub 8k+⭐）开放 README 赞助位，适合安全工具/培训/招聘曝光。档位见 SPONSORSHIP.md，合作邮箱 ww7517437@gmail.com。
+> reverse-skill（安全 AI 路由包，GitHub 8k+⭐）开放 README 赞助位，适合安全工具/培训/招聘曝光。档位见 SPONSORSHIP.md，合作邮箱 24781737@qq.com。

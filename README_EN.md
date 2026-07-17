@@ -192,12 +192,12 @@ Platform-specific docs:
 Support ongoing maintenance, or get labeled brand placement in front of security engineers.
 
 **Tiers:** [docs/SPONSORSHIP.md](docs/SPONSORSHIP.md)  
-**Email:** [ww7517437@gmail.com](mailto:ww7517437@gmail.com)
+**Email:** [24781737@qq.com](mailto:24781737@qq.com)
 
 ### Current sponsors
 
 <p align="center">
-  <em>Be the first sponsor — <a href="mailto:ww7517437@gmail.com?subject=%5BSponsorship%5D%20reverse-skill">email us</a></em>
+  <em>Be the first sponsor — <a href="mailto:24781737@qq.com?subject=%5BSponsorship%5D%20reverse-skill">email us</a></em>
 </p>
 
 <p align="right">(<a href="#sponsors">back to top</a>)</p>

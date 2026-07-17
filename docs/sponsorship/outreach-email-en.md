@@ -26,13 +26,13 @@ https://github.com/zhaoxuya520/reverse-skill/blob/main/docs/SPONSORSHIP.md
 
 **What we don’t do:** unlabeled advertorials, bundled junk, or copy that undermines the project’s security posture.
 
-If this is interesting, reply with preferred tier and duration — or email `ww7517437@gmail.com`.
+If this is interesting, reply with preferred tier and duration — or email `24781737@qq.com`.
 
 Thanks for your time.
 
 【Your name】  
 reverse-skill  
-Email: ww7517437@gmail.com  
+Email: 24781737@qq.com  
 X: https://x.com/apivixtls  
 Telegram: https://t.me/AI_And_Security  
 
@@ -40,4 +40,4 @@ Telegram: https://t.me/AI_And_Security
 
 ## Short DM version
 
-> reverse-skill (AI security skill-router, 8k+ GitHub stars) has open README sponsorship slots for security tools / training / hiring. Details: docs/SPONSORSHIP.md — ww7517437@gmail.com
+> reverse-skill (AI security skill-router, 8k+ GitHub stars) has open README sponsorship slots for security tools / training / hiring. Details: docs/SPONSORSHIP.md — 24781737@qq.com
